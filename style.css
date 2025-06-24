@@ -384,6 +384,7 @@ section .weekend-text .price{
     border-bottom: 1px solid #ccc;
 }
 .footer-links h1{
+    color: #000;
     font-size: 16px;
     font-weight: 600;
 }
@@ -396,6 +397,7 @@ section .weekend-text .price{
     font-weight: 400;
 }
 #copyRight{
+    color: #000;
     text-align: center;
     padding: 10px 0;
     font-size: 14px;
